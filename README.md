@@ -1,8 +1,5 @@
-# ld-agent Go
+# ld-agent-go: Dynamic linking for agentic systems in Go
 
-**Dynamic linking for agentic systems in Go**
-
-ld-agent-go is the Go implementation of ld-agent, a dynamic linker for AI capabilities. Just like `ld-so` discovers and links shared libraries at runtime, ld-agent discovers and links agentic capabilities to create composable AI systems.
 
 ## Quick Start
 
