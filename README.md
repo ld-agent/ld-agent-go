@@ -1,4 +1,5 @@
-# ld-agent-go: Dynamic linking for agentic systems in Go
+# ld-agent-go
+Dynamic linking for agentic systems in Go
 
 
 ## Quick Start
